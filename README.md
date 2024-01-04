@@ -57,7 +57,7 @@ npm run dev
 cd backend
 node index.js
 
-
+# Make a images folder in backend folder
 **Feel free to modify or update this content to suit your project's specific setup and requirements!**
 
 
